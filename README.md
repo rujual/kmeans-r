@@ -97,4 +97,3 @@ aggregate(df[-1], by=list(cluster=fit.km$cluster),mean)
 | 1 | 0.5193342 | 0.2665394 | 2.394275 | 0.08544614 | 12.37193 | 30.34436 | 0.9966768 | 3.315522 | 0.6565310 | 10.54022 | 5.724343 |
 | 2 | 0.5516429 | 0.2834286 | 2.944524 | 0.09313810 | 25.70833 | 91.72857 | 0.9969427 | 3.298738 | 0.6626905 | 10.09389 | 5.388095 |
 
-Inspired by Chapter 16 in [R in Action](https://www.manning.com/books/r-in-action) by Robert I. Kabacoff. 
